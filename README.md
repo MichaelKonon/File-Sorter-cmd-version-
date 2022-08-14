@@ -1,4 +1,4 @@
-# File Sorter(cmd version) V1.0
+# File Sorter(cmd version) V1.0 ![](https://raw.githubusercontent.com/MichaelKonon/File-Sorter-cmd-version-/main/main_ico.ico)
 
 Greetings. This is a file sorter project. It was created by me because I, 
 like many people, am often too lazy to sort files from the downloads folder. 
